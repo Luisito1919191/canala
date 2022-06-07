@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF: 0, tvg-logo="https://pics.filmaffinity.com/Malcolm_Serie_de_TV-223898645-large.jpg" group-title="MALCOLM", 1x1
+https://sv09.pelisfile.net:443/videos/hls/2AUD4XXwU192ZiJnIc-6Pg/1654650571/3838/bd86e2bca4e64c4a6e89da1416c46a3f/EP.1.1.v0.1654565631.360.m3u8
